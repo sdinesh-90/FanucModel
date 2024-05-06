@@ -20,7 +20,7 @@
                       Geometry:(FileGeometry){ File:Model/R.mesh }
                       Children:[
                         { Name:AxisB  Color:"#FFFF00"  Sockets:<T=84,0,0>  ConnectTo:B
-                          Joint:Rotate  JVector:0,1,0  JAsDrawn:-90  JMin:-220 JMax:40
+                          Joint:Rotate  JVector:0,1,0  JMin:-220  JMax:40
                           Geometry:(FileGeometry){ File:Model/B.mesh }
                           Children:[
                             { Name:AxisT  Color:"#B0B000"  Sockets:<Tip=6,0,0>  ConnectTo:T
